@@ -1,0 +1,1 @@
+This project is about building google homepage(the simple one with just a search box) by using what i have learnt on the basics of html and css.
